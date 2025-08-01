@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadaynamo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadaynamo&hide=contribs,prs)
+![codewars](https://www.codewars.com/users/joe-at-github/badges/large)
+
 
 
 ###
